@@ -1,0 +1,15 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+TestExample	../tests.py	/^class TestExample(unittest.TestCase):$/;"	kind:class	line:5
+__init__.py	../__init__.py	1;"	kind:file	line:1
+game.py	../game.py	1;"	kind:file	line:1
+get_ascii	../img2ascii.py	/^def get_ascii(file_path, scale, factor):$/;"	kind:function	line:6
+img2ascii.py	../img2ascii.py	1;"	kind:file	line:1
+level_one	../game.py	/^def level_one():$/;"	kind:function	line:20
+start_game	../game.py	/^def start_game():$/;"	kind:function	line:8
+test_equal	../tests.py	/^    def test_equal(self):$/;"	kind:member	line:6
+tests.py	../tests.py	1;"	kind:file	line:1
